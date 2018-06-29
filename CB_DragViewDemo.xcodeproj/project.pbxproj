@@ -15,9 +15,9 @@
 		4BB5C3EE20E4DA8400872740 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 4BB5C3ED20E4DA8400872740 /* main.m */; };
 		4BB5C3F820E4DA8500872740 /* CB_DragViewDemoTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 4BB5C3F720E4DA8500872740 /* CB_DragViewDemoTests.m */; };
 		4BB5C40320E4DA8500872740 /* CB_DragViewDemoUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 4BB5C40220E4DA8500872740 /* CB_DragViewDemoUITests.m */; };
-		4BB5C41420E4DAF400872740 /* CB_DragView.m in Sources */ = {isa = PBXBuildFile; fileRef = 4BB5C41020E4DAF400872740 /* CB_DragView.m */; };
-		4BB5C41520E4DAF400872740 /* CB_MenuView.m in Sources */ = {isa = PBXBuildFile; fileRef = 4BB5C41220E4DAF400872740 /* CB_MenuView.m */; };
-		4BB5C41820E4DB0000872740 /* UIView+Extension.m in Sources */ = {isa = PBXBuildFile; fileRef = 4BB5C41620E4DB0000872740 /* UIView+Extension.m */; };
+		4BB5C41F20E5CCAE00872740 /* CB_MenuView.m in Sources */ = {isa = PBXBuildFile; fileRef = 4BB5C41A20E5CCAD00872740 /* CB_MenuView.m */; };
+		4BB5C42020E5CCAE00872740 /* UIView+Extension.m in Sources */ = {isa = PBXBuildFile; fileRef = 4BB5C41B20E5CCAD00872740 /* UIView+Extension.m */; };
+		4BB5C42120E5CCAE00872740 /* CB_DragView.m in Sources */ = {isa = PBXBuildFile; fileRef = 4BB5C41D20E5CCAD00872740 /* CB_DragView.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -54,12 +54,12 @@
 		4BB5C3FE20E4DA8500872740 /* CB_DragViewDemoUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CB_DragViewDemoUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		4BB5C40220E4DA8500872740 /* CB_DragViewDemoUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CB_DragViewDemoUITests.m; sourceTree = "<group>"; };
 		4BB5C40420E4DA8600872740 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		4BB5C41020E4DAF400872740 /* CB_DragView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = CB_DragView.m; path = "../../裁剪圆角/圆角裁剪/圆角裁剪/CB_DragView.m"; sourceTree = "<group>"; };
-		4BB5C41120E4DAF400872740 /* CB_DragView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = CB_DragView.h; path = "../../裁剪圆角/圆角裁剪/圆角裁剪/CB_DragView.h"; sourceTree = "<group>"; };
-		4BB5C41220E4DAF400872740 /* CB_MenuView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = CB_MenuView.m; path = "../../裁剪圆角/圆角裁剪/圆角裁剪/CB_MenuView.m"; sourceTree = "<group>"; };
-		4BB5C41320E4DAF400872740 /* CB_MenuView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = CB_MenuView.h; path = "../../裁剪圆角/圆角裁剪/圆角裁剪/CB_MenuView.h"; sourceTree = "<group>"; };
-		4BB5C41620E4DB0000872740 /* UIView+Extension.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = "UIView+Extension.m"; path = "../../裁剪圆角/圆角裁剪/圆角裁剪/UIView+Extension.m"; sourceTree = "<group>"; };
-		4BB5C41720E4DB0000872740 /* UIView+Extension.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = "UIView+Extension.h"; path = "../../裁剪圆角/圆角裁剪/圆角裁剪/UIView+Extension.h"; sourceTree = "<group>"; };
+		4BB5C41920E5CCAD00872740 /* CB_DragView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CB_DragView.h; sourceTree = "<group>"; };
+		4BB5C41A20E5CCAD00872740 /* CB_MenuView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CB_MenuView.m; sourceTree = "<group>"; };
+		4BB5C41B20E5CCAD00872740 /* UIView+Extension.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIView+Extension.m"; sourceTree = "<group>"; };
+		4BB5C41C20E5CCAD00872740 /* UIView+Extension.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIView+Extension.h"; sourceTree = "<group>"; };
+		4BB5C41D20E5CCAD00872740 /* CB_DragView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CB_DragView.m; sourceTree = "<group>"; };
+		4BB5C41E20E5CCAD00872740 /* CB_MenuView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CB_MenuView.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -111,15 +111,15 @@
 			isa = PBXGroup;
 			children = (
 				4BB5C3DE20E4DA5B00872740 /* AppDelegate.h */,
+				4BB5C41920E5CCAD00872740 /* CB_DragView.h */,
+				4BB5C41D20E5CCAD00872740 /* CB_DragView.m */,
+				4BB5C41E20E5CCAD00872740 /* CB_MenuView.h */,
+				4BB5C41A20E5CCAD00872740 /* CB_MenuView.m */,
+				4BB5C41C20E5CCAD00872740 /* UIView+Extension.h */,
+				4BB5C41B20E5CCAD00872740 /* UIView+Extension.m */,
 				4BB5C3DF20E4DA5B00872740 /* AppDelegate.m */,
-				4BB5C41720E4DB0000872740 /* UIView+Extension.h */,
-				4BB5C41620E4DB0000872740 /* UIView+Extension.m */,
 				4BB5C3E120E4DA5B00872740 /* ViewController.h */,
 				4BB5C3E220E4DA5B00872740 /* ViewController.m */,
-				4BB5C41120E4DAF400872740 /* CB_DragView.h */,
-				4BB5C41020E4DAF400872740 /* CB_DragView.m */,
-				4BB5C41320E4DAF400872740 /* CB_MenuView.h */,
-				4BB5C41220E4DAF400872740 /* CB_MenuView.m */,
 				4BB5C3E420E4DA5B00872740 /* Main.storyboard */,
 				4BB5C3E720E4DA8300872740 /* Assets.xcassets */,
 				4BB5C3E920E4DA8300872740 /* LaunchScreen.storyboard */,
@@ -277,12 +277,12 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				4BB5C41820E4DB0000872740 /* UIView+Extension.m in Sources */,
+				4BB5C42020E5CCAE00872740 /* UIView+Extension.m in Sources */,
+				4BB5C41F20E5CCAE00872740 /* CB_MenuView.m in Sources */,
 				4BB5C3E320E4DA5B00872740 /* ViewController.m in Sources */,
-				4BB5C41420E4DAF400872740 /* CB_DragView.m in Sources */,
 				4BB5C3EE20E4DA8400872740 /* main.m in Sources */,
 				4BB5C3E020E4DA5B00872740 /* AppDelegate.m in Sources */,
-				4BB5C41520E4DAF400872740 /* CB_MenuView.m in Sources */,
+				4BB5C42120E5CCAE00872740 /* CB_DragView.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
