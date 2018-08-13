@@ -1,7 +1,7 @@
 # CB_DragView
 a method to switch two views;
 here is the example:
-
+# 2018.08.13 纯代码并加入了自动滚动;
 ![image](https://github.com/Calabash-Boy/CB_DragView/blob/master/drag.gif)
 
 - 本demo只提供一种交换动画的思路,对数据源的操作以及界面更新请按实际业务进行变更;
